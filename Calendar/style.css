@@ -1,0 +1,99 @@
+body {
+	font-family: "helvetica";
+	background-color: #424242;
+	margin-top: 100px;
+}
+
+
+#cont{
+	margin: auto;
+	background-color: #1C1C1C;
+	width:700px;
+}
+
+#cont td {
+	padding: 5px;
+}
+
+#nav {
+	border: 0px;
+	width:100%;
+	background-color: #A9D0F5;
+}
+
+#nav td {
+	width:50%;
+}
+
+
+.day {
+	background-color: #81BEF7;
+	text-align: center;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+.date {
+	height:50px;
+	text-align: center;
+	background-color: #F7F8E0;
+}
+
+.month {
+	height:50px;
+	background-color: #A9D0F5;
+}
+
+h1{
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	color:white;
+}	
+
+.bodytext {
+	color: #58ACFA;
+	font-style: italic;
+}
+
+input[type=text]{
+	width:100%;
+	padding: 10px;
+	border-radius: 5px;
+	border: 0px;
+	background-color: #FBFBEF;
+}
+
+textarea {
+	width:100%;
+	height:150px;
+	padding: 10px;
+	border-radius: 5px;
+	border: 0px;
+	background-color: #FBFBEF;
+}
+
+
+input[type=submit]{
+	width:100%;
+	background-color: #58ACFA;
+	border: 0px;
+	border-radius: 5px;
+	padding: 10px;
+	color: white;
+}
+
+input[type=submit]:hover {
+	background:#A9BCF5;
+}
+
+#response {
+	width:300px;
+	margin:auto;
+	margin-top:200px;
+	color: white;
+	text-align: center;
+}
