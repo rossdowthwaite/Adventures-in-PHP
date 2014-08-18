@@ -1,7 +1,7 @@
 Adventures in PHP
 =================
 
-Various PHP code examples
+Various PHP examples and code
 
 Links
 -----
